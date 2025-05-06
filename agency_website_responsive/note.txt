@@ -1,0 +1,4 @@
+There are two HTML files included in this project. 
+The first, index.html, is designed primarily for desktop layouts and showcases the original static structure. 
+The second, spar.html, is a fully responsive version that adapts seamlessly to both desktop and mobile devices, 
+ensuring an optimal viewing experience across screen sizes.
